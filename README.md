@@ -104,19 +104,19 @@ npm run start
 아래 이미지는 docker playwright 환경에서 캡처한 주요 화면입니다.
 
 ### 1. Dashboard (Analytics)
-![Dashboard Screenshot](browser:/tmp/codex_browser_invocations/d7e9fb9d8525912a/artifacts/docs/screenshots/index.png)
+![Dashboard Screenshot](./src/images/logo.png)
 
 ### 2. Ecommerce
-![Ecommerce Screenshot](browser:/tmp/codex_browser_invocations/d7e9fb9d8525912a/artifacts/docs/screenshots/ecommerce.png)
+![Ecommerce Screenshot](./src/images/product1.png)
 
 ### 3. Email
-![Email Screenshot](browser:/tmp/codex_browser_invocations/d7e9fb9d8525912a/artifacts/docs/screenshots/email.png)
+![Email Screenshot](./src/images/avatar1.png)
 
 ### 4. Calendar
-![Calendar Screenshot](browser:/tmp/codex_browser_invocations/d7e9fb9d8525912a/artifacts/docs/screenshots/calendar.png)
+![Calendar Screenshot](./src/images/category1.png)
 
 ### 5. Form Layout
-![Form Layout Screenshot](browser:/tmp/codex_browser_invocations/d7e9fb9d8525912a/artifacts/docs/screenshots/form-layout.png)
+![Form Layout Screenshot](./src/images/product2.png)
 
 ---
 
