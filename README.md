@@ -1,11 +1,4 @@
-# Admin Toolkit (HTML) 프로젝트 가이드
-
-<div align="center">
-  <img src="./src/images/logo.png" height="56" alt="Admin Toolkit 로고" />
-  <p><strong>Tailwind CSS 기반 관리자 대시보드 템플릿</strong></p>
-</div>
-
-## 1) 프로젝트 소개
+# Admin Toolkit (HTML) 
 
 Admin Toolkit은 **정적 HTML + Tailwind CSS + Vanilla JavaScript** 조합으로 구성된 관리자(Admin) 대시보드 템플릿입니다.  
 대시보드, 이커머스, 이메일, 캘린더, 테이블, 폼, 인증 페이지 등 실제 서비스에 바로 적용 가능한 UI 화면을 제공합니다.
